@@ -10,7 +10,7 @@
 		"deviceIcon" : "bulb",
 		"roomName" : "Bedroom",
 		"deviceMeasure" : "1",
-		"deviceMeasureType" :"text",
+		"deviceMeasureType" :"switch",
 		"deviceMeasureColor" :"red" 
 	}, 
 	{
@@ -24,14 +24,14 @@
 		"deviceIcon" : "bulb",
 		"roomName" : "Bedroom",
 		"deviceMeasure" : "1",
-		"deviceMeasureType" :"text",
+		"deviceMeasureType" :"switch",
 		"deviceMeasureColor" :"red" 
 	}, 
 	{
 		"deviceIcon" : "bulb",
 		"roomName" : "Bedroom",
 		"deviceMeasure" : "0",
-		"deviceMeasureType" :"text",
+		"deviceMeasureType" :"switch",
 		"deviceMeasureColor" :"red" 
 	}, 
 	{
