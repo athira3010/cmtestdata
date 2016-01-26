@@ -1,8 +1,8 @@
 [
 	{
-		"deviceIcon" : "bulb",
-		"roomName" : "Bedroom",
-		"deviceMeasure" : "50",
+		"deviceIcon" : "drop",
+		"roomName" : "Dining",
+		"deviceMeasure" : "70",
 		"deviceMeasureType" :"text",
 		"deviceMeasureColor" :"red" 		
 	}, 
@@ -14,8 +14,8 @@
 		"deviceMeasureColor" :"red" 
 	}, 
 	{
-		"deviceIcon" : "bulb",
-		"roomName" : "Bedroom",
+		"deviceIcon" : "thermometer",
+		"roomName" : "Living",
 		"deviceMeasure" : "50",
 		"deviceMeasureType" :"text",
 		"deviceMeasureColor" :"red" 
@@ -30,7 +30,14 @@
 	{
 		"deviceIcon" : "bulb",
 		"roomName" : "Bedroom",
-		"deviceMeasure" : "50",
+		"deviceMeasure" : "80",
+		"deviceMeasureType" :"text",
+		"deviceMeasureColor" :"red" 
+	}, 
+	{
+		"deviceIcon" : "bulb",
+		"roomName" : "Bedroom",
+		"deviceMeasure" : "90",
 		"deviceMeasureType" :"text",
 		"deviceMeasureColor" :"red" 
 	}
