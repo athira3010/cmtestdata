@@ -16,7 +16,7 @@
 	{
 		"deviceIcon" : "thermometer",
 		"roomName" : "Living",
-		"deviceMeasure" : "30\u2109",
+		"deviceMeasure" : "30%",
 		"deviceMeasureType" :"text",
 		"deviceMeasureColor" :"red" 
 	}, 
