@@ -9,14 +9,14 @@
 	{
 		"deviceIcon" : "bulb",
 		"roomName" : "Bedroom",
-		"deviceMeasure" : "0",
+		"deviceMeasure" : "1",
 		"deviceMeasureType" :"text",
 		"deviceMeasureColor" :"red" 
 	}, 
 	{
 		"deviceIcon" : "thermometer",
 		"roomName" : "Living",
-		"deviceMeasure" : "30&#xb0;",
+		"deviceMeasure" : "30\u2109",
 		"deviceMeasureType" :"text",
 		"deviceMeasureColor" :"red" 
 	}, 
@@ -30,7 +30,7 @@
 	{
 		"deviceIcon" : "bulb",
 		"roomName" : "Bedroom",
-		"deviceMeasure" : "1",
+		"deviceMeasure" : "0",
 		"deviceMeasureType" :"text",
 		"deviceMeasureColor" :"red" 
 	}, 
