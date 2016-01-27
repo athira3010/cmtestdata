@@ -52,7 +52,7 @@
 		"roomName" : "Bedroom",
 		"deviceMeasure" : "90",
 		"deviceMeasureType" :"text",
-		"deviceMeasureUnit" :"&deg;",
+		"deviceMeasureUnit" :"&#37;",
 		"deviceMeasureColor" :"blue" 
 	}
 ]
