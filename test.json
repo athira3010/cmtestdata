@@ -2,8 +2,9 @@
 	{
 		"deviceIcon" : "drop",
 		"roomName" : "Dining",
-		"deviceMeasure" : "70%",
+		"deviceMeasure" : "70",
 		"deviceMeasureType" :"text",
+		"deviceMeasureUnit" :"&#37;",
 		"deviceMeasureColor" :"red" 		
 	}, 
 	{
@@ -11,13 +12,15 @@
 		"roomName" : "Bedroom",
 		"deviceMeasure" : "1",
 		"deviceMeasureType" :"switch",
+		"deviceMeasureUnit" :"",
 		"deviceMeasureColor" :"red" 
 	}, 
 	{
 		"deviceIcon" : "thermometer",
 		"roomName" : "Living",
-		"deviceMeasure" : "30%",
+		"deviceMeasure" : "30",
 		"deviceMeasureType" :"text",
+		"deviceMeasureUnit" :"&#176;",
 		"deviceMeasureColor" :"red" 
 	}, 
 	{
@@ -25,6 +28,15 @@
 		"roomName" : "Bedroom",
 		"deviceMeasure" : "1",
 		"deviceMeasureType" :"switch",
+		"deviceMeasureUnit" :"",
+		"deviceMeasureColor" :"red" 
+	}, 
+	{
+		"deviceIcon" : "thermometer",
+		"roomName" : "Bedroom",
+		"deviceMeasure" : "40",
+		"deviceMeasureType" :"text",
+		"deviceMeasureUnit" :"&#176;",
 		"deviceMeasureColor" :"red" 
 	}, 
 	{
@@ -32,13 +44,15 @@
 		"roomName" : "Bedroom",
 		"deviceMeasure" : "0",
 		"deviceMeasureType" :"switch",
+		"deviceMeasureUnit" :"",
 		"deviceMeasureColor" :"red" 
 	}, 
 	{
 		"deviceIcon" : "drop",
 		"roomName" : "Bedroom",
-		"deviceMeasure" : "90%",
+		"deviceMeasure" : "90",
 		"deviceMeasureType" :"text",
-		"deviceMeasureColor" :"red" 
+		"deviceMeasureUnit" :"&deg;",
+		"deviceMeasureColor" :"blue" 
 	}
 ]
