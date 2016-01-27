@@ -5,7 +5,7 @@
 		"deviceMeasure" : "70",
 		"deviceMeasureType" :"text",
 		"deviceMeasureUnit" :"&#37;",
-		"deviceMeasureColor" :"red" 		
+		"deviceMeasureColor" :"blue" 		
 	}, 
 	{
 		"deviceIcon" : "bulb",
@@ -21,7 +21,7 @@
 		"deviceMeasure" : "30",
 		"deviceMeasureType" :"text",
 		"deviceMeasureUnit" :"&#176;",
-		"deviceMeasureColor" :"red" 
+		"deviceMeasureColor" :"green" 
 	}, 
 	{
 		"deviceIcon" : "bulb",
@@ -37,7 +37,7 @@
 		"deviceMeasure" : "40",
 		"deviceMeasureType" :"text",
 		"deviceMeasureUnit" :"&#176;",
-		"deviceMeasureColor" :"red" 
+		"deviceMeasureColor" :"blue" 
 	}, 
 	{
 		"deviceIcon" : "bulb",
