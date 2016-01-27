@@ -5,7 +5,7 @@
 		"deviceMeasure" : "70",
 		"deviceMeasureType" :"text",
 		"deviceMeasureUnit" :"&#37;",
-		"deviceMeasureColor" :"blue" 		
+		"deviceMeasureColor" :"red" 		
 	}, 
 	{
 		"deviceIcon" : "bulb",
